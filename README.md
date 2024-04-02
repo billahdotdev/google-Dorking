@@ -140,6 +140,14 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     117. intitle:"Index of" secret
     118. intitle:"Index of" restricted
     119. intitle:"Index of" confidential OR secret
+    Database Dumps:
+    120. intitle:"Index of" .sql
+    121. intitle:"Index of" .mdb
+    122. intitle:"Index of" .db
+    123. intitle:"Index of" backup.sql
+    124. intitle:"Index of" database_backup.sql
+    125. intitle:"Index of" dump.sql
+    126. int
 
 
 
