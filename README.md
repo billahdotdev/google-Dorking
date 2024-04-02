@@ -8,9 +8,9 @@ WARNING: Users should exercise caution and responsibility when using Google dork
 <br />
 // List of google Dorking ideas/keywords
 
--Generic Search Terms:
+    -Generic Search Terms:
 
-
+    
     1. "Index of /" "Parent Directory"
     2. intitle:"index of" "parent directory"
     3. intitle:"index of" "private"
@@ -37,7 +37,26 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     24. intitle:"index of" "tools"
     25. intitle:"index of" "backup" OR "backups"
 
--File Type Specific:
+    -File Type Specific:
+
+    26. filetype:log inurl:"access.log"
+    27. filetype:txt inurl:password
+    28. filetype:sql inurl:wp-content/backup-db
+    29. filetype:env intext:DB_USERNAME DB_PASSWORD
+    30. filetype:pdf intext:"Confidential" site:example.com
+    31. filetype:conf inurl:web.config
+    32. filetype:ini inurl:ftp
+    33. filetype:csv inurl:finance
+    34. filetype:php inurl:admin
+    35. filetype:json intitle:"index of" database
+    36. filetype:xml intitle:"index of" database
+    37. filetype:yaml intitle:"index of" database
+    38. filetype:sh intitle:"index of" database
+    39. filetype:txt intitle:"index of" database
+    40. filetype:config intitle:"index of" database
+    41. filetype:cfg intitle:"index of" database
+    42. filetype:properties intitle:"index of" database
+    43. filetype:yaml intitle:"index of" database
 
 
 
