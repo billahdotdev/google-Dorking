@@ -135,7 +135,8 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     110. intitle:"Index Of" budget.pdf
     111. intitle:"Index Of" balance_sheet.xlsx
     112. intitle:"Index Of" income_statement.pdf
-    Confidential Documents:
+    
+    -Confidential Documents:
     113. intitle:"Index of" confidential
     114. intitle:"Index of" sensitive
     115. intitle:"Index of" confidential OR sensitive
