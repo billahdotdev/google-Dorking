@@ -102,6 +102,23 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     83. intitle:"Apache Tomcat/7.0.42 - Error report"
     84. intitle:"Apache Tomcat" intitle:"Error Report"
     85. intitle:"Apache Tomcat" intitle:"Status"
+    Specific Software:
+    86. intitle:"Powered by wordpress"
+    87. intitle:"Powered by Joomla!"
+    88. intitle:"Powered by Drupal"
+    89. intitle:"Powered by phpBB"
+    90. intitle:"Powered by vBulletin"
+    91. intitle:"Powered by MyBB"
+    92. intitle:"Powered by bbPress"
+    93. intitle:"Powered by MediaWiki"
+    94. intitle:"Powered by DokuWiki"
+    95. intitle:"Powered by SilverStripe"
+    96. intitle:"Powered by ExpressionEngine"
+    97. intitle:"Powered by MODx"
+    98. intitle:"Powered by Typepad"
+    99. intitle:"Powered by MovableType"
+    100. intitle:"Powered by Textpattern"
+    
 
 
 
