@@ -74,6 +74,27 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     57. intitle:"index of" inurl:system
     58. intitle:"index of" inurl:web
     59. intitle:"index of" inurl:scripts
+    Sensitive Information:
+    60. intitle:"index of" password.txt
+    61. intitle:"index of" db.sqlite
+    62. intitle:"index of" .ssh
+    63. intitle:"index of" .htpasswd
+    64. intitle:"index of" .env
+    65. intitle:"index of" .config
+    66. intitle:"index of" .gitconfig
+    67. intitle:"index of" .ftpconfig
+    68. intitle:"index of" .bak
+    69. intitle:"index of" .key
+    70. intitle:"index of" .pem
+    71. intitle:"index of" .cer
+    72. intitle:"index of" .crt
+    73. intitle:"index of" .pub
+    74. intitle:"index of" .xls
+    75. intitle:"index of" .xlsx
+    76. intitle:"index of" .doc
+    77. intitle:"index of" .docx
+    78. intitle:"index of" .pdf
+    79. intitle:"index of" .txt
 
 
 
