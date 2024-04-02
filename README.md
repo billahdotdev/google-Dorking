@@ -9,8 +9,6 @@ WARNING: Users should exercise caution and responsibility when using Google dork
 // List of google Dorking ideas/keywords
 
     -Generic Search Terms:
-
-    
     1. "Index of /" "Parent Directory"
     2. intitle:"index of" "parent directory"
     3. intitle:"index of" "private"
