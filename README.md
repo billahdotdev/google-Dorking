@@ -124,7 +124,14 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     103. intitle:"Linksys" intext:"Web Authentication"
     104. intitle:"D-Link" intext:"Web Authentication"
     105. intitle:"Cisco" intext:"Web Authentication"
-    
+    Financial Data:
+    106. intitle:index.of finances.xls
+    107. intitle:"Index Of" finances.csv
+    108. intitle:"Index Of" financial_reports.pdf
+    109. intitle:"Index Of" budget.xlsx
+    110. intitle:"Index Of" budget.pdf
+    111. intitle:"Index Of" balance_sheet.xlsx
+    112. intitle:"Index Of" income_statement.pdf
 
 
 
