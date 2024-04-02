@@ -8,7 +8,7 @@
 <br />
 *// List of google Dorking ideas/keywords*
 
-    *-Generic Search Terms:*
+    -Generic Search Terms:
     1. "Index of /" "Parent Directory"
     2. intitle:"index of" "parent directory"
     3. intitle:"index of" "private"
@@ -35,7 +35,7 @@
     24. intitle:"index of" "tools"
     25. intitle:"index of" "backup" OR "backups"
 
-    *-File Type Specific:*
+    -File Type Specific:
     26. filetype:log inurl:"access.log"
     27. filetype:txt inurl:password
     28. filetype:sql inurl:wp-content/backup-db
@@ -55,7 +55,7 @@
     42. filetype:properties intitle:"index of" database
     43. filetype:yaml intitle:"index of" database
     
-    *-Directory Listings:*
+    -Directory Listings:
     44. intitle:"index of" inurl:ftp
     45. intitle:"index of" inurl:webdav
     46. intitle:"index of" inurl:sftp
@@ -73,7 +73,7 @@
     58. intitle:"index of" inurl:web
     59. intitle:"index of" inurl:scripts
     
-    *-Sensitive Information:*
+    -Sensitive Information:
     60. intitle:"index of" password.txt
     61. intitle:"index of" db.sqlite
     62. intitle:"index of" .ssh
@@ -95,7 +95,7 @@
     78. intitle:"index of" .pdf
     79. intitle:"index of" .txt
     
-    *-Vulnerable Systems:*
+    -Vulnerable Systems:
     80. intitle:"Welcome to JBoss"
     81. intitle:"Tomcat status" intext:"Tomcat Manager"
     82. intitle:"Apache2 Ubuntu Default Page" intext:"It works"
@@ -103,7 +103,7 @@
     84. intitle:"Apache Tomcat" intitle:"Error Report"
     85. intitle:"Apache Tomcat" intitle:"Status"
     
-    *-Specific Software:*
+    -Specific Software:
     86. intitle:"Powered by wordpress"
     87. intitle:"Powered by Joomla!"
     88. intitle:"Powered by Drupal"
@@ -120,14 +120,14 @@
     99. intitle:"Powered by MovableType"
     100. intitle:"Powered by Textpattern"
     
-    *-Network Devices:*
+    -Network Devices:
     101. intitle:"NETGEAR ProSafe" intext:"Switching"
     102. inurl:/view.shtml intitle:"Network Camera"
     103. intitle:"Linksys" intext:"Web Authentication"
     104. intitle:"D-Link" intext:"Web Authentication"
     105. intitle:"Cisco" intext:"Web Authentication"
     
-    *-Financial Data:*
+    -Financial Data:
     106. intitle:index.of finances.xls
     107. intitle:"Index Of" finances.csv
     108. intitle:"Index Of" financial_reports.pdf
@@ -136,7 +136,7 @@
     111. intitle:"Index Of" balance_sheet.xlsx
     112. intitle:"Index Of" income_statement.pdf
     
-    *-Confidential Documents:*
+    -Confidential Documents:
     113. intitle:"Index of" confidential
     114. intitle:"Index of" sensitive
     115. intitle:"Index of" confidential OR sensitive
@@ -145,7 +145,7 @@
     118. intitle:"Index of" restricted
     119. intitle:"Index of" confidential OR secret
     
-    *-Database Dumps:*
+    -Database Dumps:
     120. intitle:"Index of" .sql
     121. intitle:"Index of" .mdb
     122. intitle:"Index of" .db
