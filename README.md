@@ -94,7 +94,8 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     77. intitle:"index of" .docx
     78. intitle:"index of" .pdf
     79. intitle:"index of" .txt
-    Vulnerable Systems:
+    
+    -Vulnerable Systems:
     80. intitle:"Welcome to JBoss"
     81. intitle:"Tomcat status" intext:"Tomcat Manager"
     82. intitle:"Apache2 Ubuntu Default Page" intext:"It works"
