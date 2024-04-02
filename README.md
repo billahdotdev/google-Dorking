@@ -37,6 +37,10 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     24. intitle:"index of" "tools"
     25. intitle:"index of" "backup" OR "backups"
 
+-File Type Specific:
+
+
+
 
 
 
