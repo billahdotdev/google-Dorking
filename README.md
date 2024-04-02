@@ -72,7 +72,8 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     57. intitle:"index of" inurl:system
     58. intitle:"index of" inurl:web
     59. intitle:"index of" inurl:scripts
-    Sensitive Information:
+    
+    -Sensitive Information:
     60. intitle:"index of" password.txt
     61. intitle:"index of" db.sqlite
     62. intitle:"index of" .ssh
