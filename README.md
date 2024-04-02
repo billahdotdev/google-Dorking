@@ -54,7 +54,8 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     41. filetype:cfg intitle:"index of" database
     42. filetype:properties intitle:"index of" database
     43. filetype:yaml intitle:"index of" database
-    Directory Listings:
+    
+    -Directory Listings:
     44. intitle:"index of" inurl:ftp
     45. intitle:"index of" inurl:webdav
     46. intitle:"index of" inurl:sftp
