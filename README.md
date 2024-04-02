@@ -57,6 +57,23 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     41. filetype:cfg intitle:"index of" database
     42. filetype:properties intitle:"index of" database
     43. filetype:yaml intitle:"index of" database
+    Directory Listings:
+    44. intitle:"index of" inurl:ftp
+    45. intitle:"index of" inurl:webdav
+    46. intitle:"index of" inurl:sftp
+    47. intitle:"index of" inurl:ssh
+    48. intitle:"index of" inurl:cloud
+    49. intitle:"index of" inurl:storage
+    50. intitle:"index of" inurl:upload
+    51. intitle:"index of" inurl:downloads
+    52. intitle:"index of" inurl:documents
+    53. intitle:"index of" inurl:backup
+    54. intitle:"index of" inurl:admin
+    55. intitle:"index of" inurl:config
+    56. intitle:"index of" inurl:logs
+    57. intitle:"index of" inurl:system
+    58. intitle:"index of" inurl:web
+    59. intitle:"index of" inurl:scripts
 
 
 
