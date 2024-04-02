@@ -119,7 +119,8 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     98. intitle:"Powered by Typepad"
     99. intitle:"Powered by MovableType"
     100. intitle:"Powered by Textpattern"
-    Network Devices:
+    
+    -Network Devices:
     101. intitle:"NETGEAR ProSafe" intext:"Switching"
     102. inurl:/view.shtml intitle:"Network Camera"
     103. intitle:"Linksys" intext:"Web Authentication"
