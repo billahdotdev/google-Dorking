@@ -36,7 +36,6 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     25. intitle:"index of" "backup" OR "backups"
 
     -File Type Specific:
-
     26. filetype:log inurl:"access.log"
     27. filetype:txt inurl:password
     28. filetype:sql inurl:wp-content/backup-db
