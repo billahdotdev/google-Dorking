@@ -102,7 +102,8 @@ WARNING: Users should exercise caution and responsibility when using Google dork
     83. intitle:"Apache Tomcat/7.0.42 - Error report"
     84. intitle:"Apache Tomcat" intitle:"Error Report"
     85. intitle:"Apache Tomcat" intitle:"Status"
-    Specific Software:
+    
+    -Specific Software:
     86. intitle:"Powered by wordpress"
     87. intitle:"Powered by Joomla!"
     88. intitle:"Powered by Drupal"
